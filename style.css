@@ -1,6 +1,14 @@
-.cabecalho{
+.luta {
     background-color: black;
     color: azure;
     display: flex;
     padding: 24px 0;
+}
+
+.zeus {
+    background-color: blueviolet;
+}
+
+.thor {
+    background-color: blue;
 }
