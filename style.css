@@ -7,8 +7,14 @@
 
 .zeus {
     background-color: brown;
+    padding: 100px;
 }
 
 .thor {
     background-color: blue;
+    padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
 }
