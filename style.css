@@ -1,25 +1,45 @@
+.corpodosite{
+    color: white;
+    font-size: 20px;
+}
 .luta {
-    background-color: black;
+    background-image: linear-gradient(black,white);
     color: azure;
     display: flex;
     padding: 24px 0;
+    justify-content: space-around;
 }
 
 .zeus {
-    background-color: brown;
+    background-image: linear-gradient(white, black);
     padding: 100px;
+    justify-content: center;
 }
 
 .thor {
-    background-color: blue;
+    background-image: linear-gradient(black, blue);
     padding: 100px;
+    
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 15%;
 }
 
 .rodape{
-    background-color: black;
+    background-image: linear-gradient(blue,black);
     color: white;
+}
+
+.treino{
+    padding-right: 20cm;
+    width: 20cm;
+}
+
+
+
+
+.jordan{
+    padding-right: 20cm;
+    width: 20cm;
 }
